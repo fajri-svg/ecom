@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laravel E-Commerce App
 
 ## Introduction
@@ -63,3 +64,6 @@ This project is licensed under the MIT License.
 ## Finally
 Give a Start⭐ if you liked it ✌✌
 
+=======
+# ecom
+>>>>>>> 998653db60b02565fb3569b28da46218e629bad3
